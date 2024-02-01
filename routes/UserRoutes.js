@@ -1,5 +1,5 @@
 const {
-  addToLikedMovies,
+  addToLikedMovies, 
   getLikedMovies,
   removeFromLikedMovies,
 } = require("../controllers/UserController");
